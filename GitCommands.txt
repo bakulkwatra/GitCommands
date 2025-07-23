@@ -1,0 +1,14 @@
+Git Commands:
+
+
+git init(Initializer)
+git remote add origin "Git-Link"(eg.https://github.com/bakulkwatra/knowledge-management.git)
+
+git Status(this will show which all files have been made changes to)
+git add("." this means add all otehrwise specify file name)
+git commit -m "HI"
+git push origin main
+
+
+for all these commands we can use a git UI too
+git gui(directly open a dialogue box where you do your commits and pushs)
