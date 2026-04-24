@@ -12,3 +12,7 @@ git push origin main
 
 for all these commands we can use a git UI too
 git gui(directly open a dialogue box where you do your commits and pushs)
+
+gitingest
+gitmcp.io
+gitdev
